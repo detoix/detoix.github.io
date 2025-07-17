@@ -1,0 +1,28 @@
+# Ignoruj środowisko virtualne
+venv/
+
+# Ignoruj folder publikacji GitHub Pages (tworzony przez mkdocs gh-deploy)
+site/
+
+# Ignoruj pliki tymczasowe systemu/edytora
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*~
+
+# Ignoruj pliki z zależnościami środowiska, jeśli nie chcesz ich commitować
+pip-log.txt
+*.egg-info/
+
+# Ignoruj pliki z VS Code (jeśli używasz)
+.vscode/
+
+# Ignoruj zależności użytkownika z pip --user (opcjonalnie)
+~/.local/
+
+# Plik z zależnościami (zostawić jeśli chcesz śledzić)
+# requirements.txt
+

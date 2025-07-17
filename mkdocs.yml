@@ -1,0 +1,12 @@
+site_name: Śpiewnik Ogniskowy
+site_url: https://detoix.github.io/
+use_directory_urls: false
+
+nav:
+  - Kombi - Black and White: kombi-black-and-white.md
+
+theme:
+  name: material
+
+extra_javascript:
+  - js/qrcode.js
