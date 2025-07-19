@@ -1,0 +1,4 @@
+/* Styl cytatu (blockquote) */
+blockquote {
+  color: inherit !important;                 /* ciemniejszy zielony tekst */
+}
