@@ -83,6 +83,7 @@ theme:
     accent: white
 
 extra_javascript:
+  - js/transpose.js
   - js/qrcode.js
 
 extra_css:
