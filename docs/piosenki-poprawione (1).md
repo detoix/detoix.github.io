@@ -1,19 +1,3 @@
-Z każdą chwilą, z każdym słowem coraz dalej G D G C G C
-Tak na przekór przyszłym wielkim dniom e C G D7 a F C G
-Biegnę naprzód w codzienności zasłuchany G D e C C G a F
-I żelazną drogą daj rękę snom G D G/ G7 C G C / C7
-Żegnaj, Ameryko, trzymaj się C D G F G C
-Spotkamy się w Nowym Orleanie e C G D a F C G
-A na razie zwykłe słowa dwa G D e C C G a F
-Moje uszanowanie G D G (G7) C G C / C7
-Tylko stukot kół natrętnie przypomina
-Niepoważne słowa, gesty niepoważne
-I życzenie, że gdy podróż swą zaczynasz
-To nie pozwól jej zbyt szybko się zakończyć
-Cóż, że ciasno jest w wagonie trzeciej klasy
-Nie zachęca do rozmowy współpasażer
-Może tak jak ja chce wierzyć w lepsze czasy
-Slogan, co reklamę świetlną w głowie płonie
 
 A w Beskidzie rozzłocony buk /G/ CD/G/ CD/
 A w Beskidzie rozzłocony buk /G/Ce/ aD/
@@ -124,31 +108,3 @@ Drzewa coś szepczą, coś ciągle śpiewają
 I pełno w ich szumie jest twojej piękności  
 Choć troszeczkę o jesieni baj  
 To i tak las jest pełen naszej miłości  
-
-## Taka piosenka (Moja muzyka)  
-Karol Płudowski  
-
-Jest taka jedna piosenka we mnie  
-Zna ją, kto poznał wędrówki smak  
-W mieście jej szukał nadaremnie  
-W lesie zanuci ją każdy ptak  
-
-Tyle jest nowa o ile stara  
-Tyle jej we mnie, co za mną jest  
-Niczyja jak ten wiatr w konarach  
-Choć czasem czuje ją wiele serc  
-
-Widzę ją, kiedy oczy zamykam  
-Słyszę ją, kiedy cisza trwa  
-Bo to jest taka moja muzyka  
-Co im ciszej, tym ładniej mi gra  
-
-Nie ma jej w wierszach, co na papierze  
-Spisane z wiarą w słowa prawd  
-W górach jej szukam, bo w liściach wierzę  
-W drzewach jesiennych pełnych barw  
-
-I piosenką żyję, choć ułomna  
-Bo nie ma nutek, brak jej słów  
-Lecz bez niej dusza ma bezdomna  
-Więc szukać muszę wciąż i znów

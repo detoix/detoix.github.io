@@ -5,29 +5,30 @@ use_directory_urls: false
 nav:
   - Anarchia: anarchia.md
   - Ballada na złe drogi: ballada-na-zle-drogi.md
-  - Wiewiórka: wiewiorka.md
-  - Bieszczadzkie Anioły: bieszczadzkie-anioly.md
-  - V bieg: v-bieg.md
-  - Kocham wolność: kocham-wolnosc.md
-  - Dla Ciebie mógłbym zrobić wszystko: dla-ciebie-moglbym-zrobic-wszystko.md
-  - Jolene: jolene.md
-  - Iść w stronę słońca: isc-w-strone-slonca.md
-  - Wstawaj szkoda dnia: wstawaj-szkoda-dnia.md
-  - Czerwony jak cegła: czerwony-jak-cegla.md
-  - Wehikuł czasu: wehikul-czasu.md
+  - Bez Jacka - Wiewiórka: wiewiorka.md
+  - SDM - Bieszczadzkie Anioły: bieszczadzkie-anioly.md
+  - Budka Suflera - V bieg: v-bieg.md
+  - Chłopcy z Placu Broni - Kocham wolność: kocham-wolnosc.md
+  - Myslovitz - Dla Ciebie mógłbym zrobić wszystko: dla-ciebie-moglbym-zrobic-wszystko.md
+  - Dolly Parton - Jolene: jolene.md
+  - Dwa Plus Jeden - Iść w stronę słońca: isc-w-strone-slonca.md
+  - Dwa Plus Jeden - Wstawaj szkoda dnia: wstawaj-szkoda-dnia.md
+  - Dżem - Czerwony jak cegła: czerwony-jak-cegla.md
+  - Dżem - Wehikuł czasu: wehikul-czasu.md
   - Fajne cycki masz: fajne-cycki-masz.md
   - Gawędziarze: gawedziarze.md
   - Gdzie ta keja: gdzie-ta-keja.md
   - Hej, przyjaciele: hej-przyjaciele.md
   - Hiszpańskie dziewczyny: hiszpanskie-dziewczyny.md
-  - Ich Troje - A wszystko to: ich-troje-a-wszystko-to.md
-  - Ich Troje - Powiedz: ich-troje-powiedz.md
-  - Ira - Mocny: ira-mocny.md
-  - Ira - Nadzieja: ira-nadzieja.md
-  - Ira - Ona jest ze snu: ira-ona-jest-ze-snu.md
-  - Ira - Parę chwil: ira-pare-chwil.md
+  - Ich Troje - A wszystko to: a-wszystko-to.md
+  - Ich Troje - Powiedz: powiedz.md
+  - IRA - Mocny: mocny.md
+  - IRA - Nadzieja: nadzieja.md
+  - IRA - Ona jest ze snu: ona-jest-ze-snu.md
+  - IRA - Parę chwil: pare-chwil.md
   - Jeanette - Porque te vas: jeanette-porque-te-vas.md
   - Jesienne wino: jesienne-wino.md
+  - Moja Muzyka: moja-muzyka.md
   - Knockin' on Heaven's Door: knockin-on-heavens-door.md
   - Kobranocka - Kocham Cię jak Irlandię: kobranocka-kocham-cie-jak-irlandie.md
   - Kobranocka - Nikomu nie wolno: kobranocka-nikomu-nie-wolno.md
@@ -73,6 +74,7 @@ nav:
   - Zimowa nadzieja (EKT Gdynia): zimowa_nadzieja_ekt_gdynia.md
   - Zostań, Księżycu: zostan-ksiezycu.md
   - Zwłoki (autorska): zwloki_autorska.md
+  - Żegnaj Ameryko: zegnaj-ameryko.md
   - Żyję w kraju (Strachy na Lachy): zyje_w_kraju_strachy_na_lachy.md
 
 theme:

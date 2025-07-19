@@ -3,13 +3,18 @@ const capitalize = str => str[0].toUpperCase() + str.slice(1);
 const mod = (n, m) => ((n % m) + m) % m;
 
 function transposeChord(chord, direction) {
-  const isMinor = chord[0] === chord[0].toLowerCase();
-  const base = chord.toLowerCase();
+  const match = chord.match(/^(c#|d#|f#|g#|a#|[a-h])/i);
+  if (!match) return chord;
+
+  const root = match[0];
+  const isMinor = root[0] === root[0].toLowerCase();
+  const base = root.toLowerCase();
   const index = chords.indexOf(base);
   if (index === -1) return chord;
+
   const newIndex = mod(index + direction, chords.length);
-  const transposed = chords[newIndex];
-  return isMinor ? transposed : capitalize(transposed);
+  const transposedRoot = isMinor ? chords[newIndex] : capitalize(chords[newIndex]);
+  return transposedRoot + chord.slice(root.length);
 }
 
 function transposeAllChords(direction) {

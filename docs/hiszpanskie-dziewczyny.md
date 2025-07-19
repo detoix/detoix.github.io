@@ -1,28 +1,39 @@
-# Hiszpańskie Dziewczyny
+Żegnajcie nam dziś, hiszpańskie dziewczyny,		`e C H7`  
+Żegnajcie nam dziś, marzenia ze snów,			`e G D`  
+Ku brzegom angielskim już ruszać nam pora,		`C D e`  
+Lecz kiedyś na pewno wrócimy tu znów.			`C H7 e`  
 
-Żegnajcie nam dziś, hiszpańskie dziewczyny,  
-Żegnajcie nam dziś, marzenia ze snów,  
-Ku brzegom angielskim już ruszać nam pora,  
-Lecz kiedyś na pewno wrócimy tu znów.  
+>I smak waszych ust, hiszpańskie dziewczyny,		`e G D`  
+>W noc ciemną i złą nam będzie się śnił.		`e G D`  
+>Leniwie popłyną znów rejsu godziny,			`C D e`  
+>Wspomnienie ust waszych przysporzy nam sił.		`C H7 e`  
 
-I smak waszych ust, hiszpańskie dziewczyny,  
-W noc ciemną i złą nam będzie się śnił.  
-Leniwie popłyną znów rejsu godziny,  
-Wspomnienie ust waszych przysporzy nam sił.  
+Niedługo ujrzymy znów w dali Cape Deadman		`e G D`  
+I Głowę Baranią sterczącą wśród wzgórz,		`e G D`  
+I statki stojące na redzie przed Plymouth.		`C D e`  
+Klarować kotwicę najwyższy czas już.			`C H7 e`  
 
-Niedługo ujrzymy znów w dali Cape Deadman  
-I Głowę Baranią sterczącą wśród wzgórz,  
-I statki stojące na redzie przed Plymouth.  
-Klarować kotwicę najwyższy czas już.  
+>I smak waszych ust, hiszpańskie dziewczyny,		`e G D`  
+>W noc ciemną i złą nam będzie się śnił.		`e G D`  
+>Leniwie popłyną znów rejsu godziny,			`C D e`  
+>Wspomnienie ust waszych przysporzy nam sił.		`C H7 e`  
 
-I smak waszych ust …  
-I znów białe żagle na masztach rozkwitną,  
-Kurs szyper wyznaczy do Portland i Wight,  
-I znów stara łajba potoczy się ciężko  
-Przez fale w kierunku na Beachie, Fair Light.  
+I znów białe żagle na masztach rozkwitną,		`e G D`  
+Kurs szyper wyznaczy do Portland i Wight,		`e G D`  
+I znów stara łajba potoczy się ciężko			`C D e`  
+Przez fale w kierunku na Beachie, Fair Light.		`C H7 e`  
 
-I smak waszych ust …  
-Zabłysną nam bielą skał zęby pod Dover  
-I znów noc w kubryku wśród legend i bajd.  
-Powoli i znojnie tak płynie nam życie  
-Na wodach i w portach w South Foreland Light.
+>I smak waszych ust, hiszpańskie dziewczyny,		`e G D`  
+>W noc ciemną i złą nam będzie się śnił.		`e G D`  
+>Leniwie popłyną znów rejsu godziny,			`C D e`  
+>Wspomnienie ust waszych przysporzy nam sił.		`C H7 e`  
+
+Zabłysną nam bielą skał zęby pod Dover			`e G D`  
+I znów noc w kubryku wśród legend i bajd.		`e G D`  
+Powoli i znojnie tak płynie nam życie			`C D e`  
+Na wodach i w portach w South Foreland Light.		`C H7 e`  
+
+>I smak waszych ust, hiszpańskie dziewczyny,		`e G D`  
+>W noc ciemną i złą nam będzie się śnił.		`e G D`  
+>Leniwie popłyną znów rejsu godziny,			`C D e`  
+>Wspomnienie ust waszych przysporzy nam sił.		`C H7 e`  
