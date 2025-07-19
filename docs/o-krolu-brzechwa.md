@@ -6,9 +6,9 @@ I jadał dużo kaszy.
 Martwili się kucharze:
 „O, rety! Co się dzieje?
 Król kaszę podać każe,
-Król nic innego nie je!
-Jak tu pracować można
-I jak takiemu służ tu?
+Król nic innego nie je! 
+Jak tu pracować można `g C`   
+I jak takiemu służ tu? `A d`  
 Król nie chce kaczki z rożna
 Ani łososia z rusztu,
 Król nie tknie nawet jaja,
