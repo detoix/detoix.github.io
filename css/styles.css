@@ -1,4 +1,13 @@
-/* Styl cytatu (blockquote) */
+h1 {
+  margin-bottom: .8rem !important;
+}
+
+@media (max-width: 767px) {
+  main > div {
+    margin: 0 !important;
+  }
+}
+
 blockquote {
-  color: inherit !important;                 /* ciemniejszy zielony tekst */
+  color: inherit !important;
 }
