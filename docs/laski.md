@@ -1,53 +1,51 @@
-# Laski
-
 Gdziekolwiek ruszysz się `A`  
 tam wszyscy mówią ci `E`  
 że laska musi mieć duże cyce `D E A`  
 
-Gdziekolwiek ruszysz się  
-tam wszyscy trąbią że  
-tak mają laski w Ameryce  
+Gdziekolwiek ruszysz się `A`  
+tam wszyscy trąbią że `E`  
+tak mają laski w Ameryce `D E A`  
 
 A ja jestem punk `D E`  
 i w ramach walki ze wszystkimi schematami `A`  
-Ja jestem punk  
-lubię laski z małymi cyckami  
+Ja jestem punk `D E`  
+lubię laski z małymi cyckami `A`  
 
-Gdziekolwiek ruszysz się  
-Tam wszyscy mówią ci  
-że laska musi mieć długie nogi  
+Gdziekolwiek ruszysz się `A`  
+Tam wszyscy mówią ci `E`  
+że laska musi mieć długie nogi `D E A`  
 
-Gdziekolwiek ruszysz się  
-tam wszyscy trąbią że  
-jak od sufitu do podłogi  
+Gdziekolwiek ruszysz się `A`  
+tam wszyscy trąbią że `E`  
+jak od sufitu do podłogi `D E A`  
 
-A ja jestem punk  
-i w ramach walki ze wszystkimi schematami  
-Ja jestem punk  
-lubię laski z krótkimi nogami  
+A ja jestem punk `D E`  
+i w ramach walki ze wszystkimi schematami `A`  
+Ja jestem punk `D E`  
+lubię laski z krótkimi nogami `A`  
 
-Gdziekolwiek ruszysz się  
-Tam wszyscy mówią ci  
-że laska musi mieć krótkie mini  
+Gdziekolwiek ruszysz się `A`  
+Tam wszyscy mówią ci `E`  
+że laska musi mieć krótkie mini `D E A`  
 
-Gdziekolwiek ruszysz się  
-tam wszyscy twierdzą że  
-najlepiej to samo bikini  
+Gdziekolwiek ruszysz się `A`  
+tam wszyscy twierdzą że `E`  
+najlepiej to samo bikini `D E A`  
 
-A ja jestem punk  
-i w ramach walki ze wszystkimi schematami  
-Ja jestem punk  
-lubię laski z długimi spodniami  
+A ja jestem punk `D E`  
+i w ramach walki ze wszystkimi schematami `A`  
+Ja jestem punk `D E`  
+lubię laski z długimi spodniami `A`  
 
-Gdziekolwiek ruszysz się  
-Tam wszyscy mówią ci  
-że laska musi mieć fajną dupę  
+Gdziekolwiek ruszysz się `A`  
+Tam wszyscy mówią ci `E`  
+że laska musi mieć fajną dupę `D E A`  
 
-Gdziekolwiek ruszysz się  
-tam ci powiedzą, że  
-Inną to możesz sobie kupić  
+Gdziekolwiek ruszysz się `A`  
+tam ci powiedzą, że `E`  
+Inną to możesz sobie kupić `D E A`  
 
-A ja jestem punk  
-i w ramach walki ze wszystkimi schematami  
-Ja jestem punk  
-lubię laski z grubymi dupami
+A ja jestem punk `D E`  
+i w ramach walki ze wszystkimi schematami `A`  
+Ja jestem punk `D E`  
+lubię laski z grubymi dupami `A`  

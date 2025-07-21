@@ -3,17 +3,20 @@ site_url: https://detoix.github.io/
 use_directory_urls: false
 
 nav:
+  - Akcent - Przez twe oczy zielone: przez-twe-oczy-zielone.md
   - Anarchia: anarchia.md
+  - Krzysiek Deptuła & Alice Cooper - Rzuć studia: rzuc-studia.md
   - Ballada na złe drogi: ballada-na-zle-drogi.md
   - Bez Jacka - Wiewiórka: wiewiorka.md
   - SDM - Bieszczadzkie Anioły: bieszczadzkie-anioly.md
   - Budka Suflera - V bieg: v-bieg.md
   - Chłopcy z Placu Broni - Kocham wolność: kocham-wolnosc.md
-  - Myslovitz - Dla Ciebie mógłbym zrobić wszystko: dla-ciebie-moglbym-zrobic-wszystko.md
+  - Myslovitz - Dla Ciebie: dla-ciebie-moglbym-zrobic-wszystko.md
   - Dolly Parton - Jolene: jolene.md
   - Dwa Plus Jeden - Iść w stronę słońca: isc-w-strone-slonca.md
   - Dwa Plus Jeden - Wstawaj szkoda dnia: wstawaj-szkoda-dnia.md
   - Dżem - Czerwony jak cegła: czerwony-jak-cegla.md
+  - Varius Manx - Zamigotał świat: zamigotal-swiat.md
   - Dżem - Wehikuł czasu: wehikul-czasu.md
   - Fajne cycki masz: fajne-cycki-masz.md
   - Gawędziarze: gawedziarze.md
@@ -26,35 +29,38 @@ nav:
   - IRA - Nadzieja: nadzieja.md
   - IRA - Ona jest ze snu: ona-jest-ze-snu.md
   - IRA - Parę chwil: pare-chwil.md
+  - Billy Joel - Piano Man: piano-man.md
   - Jeanette - Porque te vas: porque-te-vas.md
+  - Rapapara - Łydka Grubasa: rapapara.md
   - Jesienne wino: jesienne-wino.md
-  - Moja Muzyka: moja-muzyka.md
+  - Moja muzyka: moja-muzyka.md
   - Bob Dylan - Knockin' on Heaven's Door: knockin-on-heavens-door.md
   - Kobranocka - Kocham Cię jak Irlandię: kocham-cie-jak-irlandie.md
   - Kobranocka - Nikomu nie wolno: nikomu-nie-wolno.md
   - Wały Jagiellońskie - Kombajn Bizon: kombajn-bizon.md
   - Kombi - Black and White: black-and-white.md
   - Kombi - Słodkiego miłego życia: slodkiego-milego-zycia.md
+  - Varius Manx - Pocałuj noc: pocaluj-noc.md
   - Piosenka wiosenna: piosenka-wiosenna.md
   - Polanka: polanka.md
-  - Krajka: krajka.md
   - Beskid: beskid.md
-  - Krzysztof Krawczyk - Bo jesteś Ty: krzysztof-krawczyk-bo-jestes-ty.md
-  - KSU - Moje Bieszczady: ksu-moje-bieszczady.md
-  - Kultura - Zielone Żabki: kultura-zielone-zabki.md
-  - Lady Pank - Na co komu dziś: lady-pank-na-co-komu-dzis.md
+  - Krzysztof Krawczyk - Bo jesteś Ty: bo-jestes-ty.md
+  - KSU - Moje Bieszczady: moje-bieszczady.md
+  - Zielone Żabki - Kultura: kultura.md
+  - Lady Pank - Na co komu dziś: na-co-komu-dzis.md
   - Laski: laski.md
-  - Lombard - Przeżyj to sam: lombard-przezyj-to-sam.md
-  - Lucjusz Michał Kowalczyk - Lady Mary: lucjusz-michal-kowalczyk-lady-mary.md
-  - Łzy - Agnieszka: lzy-agnieszka.md
-  - Łzy - Narcyz: lzy-narcyz.md
-  - Marek Jackowski - Oprócz błękitnego nieba: marek-jackowski-oprocz-blekitnego-nieba.md
-  - Myslovitz - Długość dźwięku samotności: myslovitz-dlugosc-dzwieku-samotnosci.md
-  - Myslovitz - Mieć czy być: myslovitz-miec-czy-byc.md
+  - Lombard - Przeżyj to sam: przezyj-to-sam.md
+  - Lucjusz Michał Kowalczyk - Lady Mary: lady-mary.md
+  - Łzy - Agnieszka: agnieszka.md
+  - Łzy - Narcyz: narcyz.md
+  - Marek Jackowski - Oprócz błękitnego nieba: oprocz-blekitnego-nieba.md
+  - Myslovitz - Długość dźwięku samotności: dlugosc-dzwieku-samotnosci.md
+  - Myslovitz - Mieć czy być: miec-czy-byc.md
   - O Bitcoinie: o-bitcoinie.md
   - O Królu (Brzechwa): o-krolu-brzechwa.md
   - Obłoki: obloki.md
   - Obudź się (Oddział Zamknięty): obudz_sie_oddzial_zamkniety.md
+  - Krzysiek Deptuła & Oddział Zamknięty - Gdyby nie szpak: gdyby-nie-szpak.md
   - Oni zaraz przyjdą tu: oni-zaraz-przyjda-tu.md
   - Pieśń Wielorybników: piesn-wielorybnikow.md
   - Piosenka dla Juniora i jego gitary: piosenka-dla-juniora-i-jego-gitary.md
@@ -78,6 +84,7 @@ nav:
   - Zwłoki (autorska): zwloki_autorska.md
   - Żegnaj Ameryko: zegnaj-ameryko.md
   - Żyję w kraju (Strachy na Lachy): zyje_w_kraju_strachy_na_lachy.md
+  - Jaja z wybiegu wolnego: jaja-z-wybiegu-wolnego.md
 
 theme:
   name: material

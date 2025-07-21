@@ -1,5 +1,4 @@
-Lucjusz Michał Kowalczyk - Lady Mary
-Na statku Lady Mary pływali przez lat cztery:
+Na statku Lady Mary pływali przez lat cztery: `d`   //dokonczyc
 Sam Smith, marynarz szczery i Jackson, małpą zwan,
 Pyskaty sternik Johny i Higins zamyślony,
 I ten, gdzieś z obcej strony, marynarz Polak Jan.

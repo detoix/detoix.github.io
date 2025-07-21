@@ -1,3 +1,7 @@
+```
+harmonijka?
+```
+
 >Twój normalny dzień zawsze black and white `C g a F`  
 >Kiedy kochasz się, zawsze black and white `C g b F`  
 >Kiedy pijesz coś, zawsze black and white `C g b F`  
