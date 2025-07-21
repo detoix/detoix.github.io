@@ -4,7 +4,7 @@ use_directory_urls: false
 
 nav:
   - Akcent - Przez twe oczy zielone: przez-twe-oczy-zielone.md
-  - Anarchia: anarchia.md
+  - Dezerter - Anarchia: anarchia.md
   - Krzysiek Deptuła & Alice Cooper - Rzuć studia: rzuc-studia.md
   - Ballada na złe drogi: ballada-na-zle-drogi.md
   - Bez Jacka - Wiewiórka: wiewiorka.md
@@ -18,10 +18,10 @@ nav:
   - Dżem - Czerwony jak cegła: czerwony-jak-cegla.md
   - Varius Manx - Zamigotał świat: zamigotal-swiat.md
   - Dżem - Wehikuł czasu: wehikul-czasu.md
-  - Fajne cycki masz: fajne-cycki-masz.md
-  - Gawędziarze: gawedziarze.md
-  - Gdzie ta keja: gdzie-ta-keja.md
-  - Hej, przyjaciele: hej-przyjaciele.md
+  - Krzysiek Deptuła & Roxette - Fajne cycki masz: fajne-cycki-masz.md
+  - Bogusław Nowicki - Gawędziarze: gawedziarze.md
+  - Jerzy Porębski - Gdzie ta keja: gdzie-ta-keja.md
+  - Paweł Kasperczyk - Hej, przyjaciele: hej-przyjaciele.md
   - Hiszpańskie dziewczyny: hiszpanskie-dziewczyny.md
   - Ich Troje - A wszystko to: a-wszystko-to.md
   - Ich Troje - Powiedz: powiedz.md
@@ -31,9 +31,9 @@ nav:
   - IRA - Parę chwil: pare-chwil.md
   - Billy Joel - Piano Man: piano-man.md
   - Jeanette - Porque te vas: porque-te-vas.md
-  - Rapapara - Łydka Grubasa: rapapara.md
-  - Jesienne wino: jesienne-wino.md
-  - Moja muzyka: moja-muzyka.md
+  - Łydka Grubasa - Rapapara: rapapara.md
+  - Andrzej Koczewski - Jesienne wino: jesienne-wino.md
+  - Karol Płudowski - Moja muzyka: moja-muzyka.md
   - Bob Dylan - Knockin' on Heaven's Door: knockin-on-heavens-door.md
   - Kobranocka - Kocham Cię jak Irlandię: kocham-cie-jak-irlandie.md
   - Kobranocka - Nikomu nie wolno: nikomu-nie-wolno.md
@@ -56,10 +56,11 @@ nav:
   - Marek Jackowski - Oprócz błękitnego nieba: oprocz-blekitnego-nieba.md
   - Myslovitz - Długość dźwięku samotności: dlugosc-dzwieku-samotnosci.md
   - Myslovitz - Mieć czy być: miec-czy-byc.md
-  - O Bitcoinie: o-bitcoinie.md
-  - O Królu (Brzechwa): o-krolu-brzechwa.md
-  - Obłoki: obloki.md
-  - Obudź się (Oddział Zamknięty): obudz_sie_oddzial_zamkniety.md
+  - Krzysiek Deptuła & Bijelo Dugme - O Bitcoinie: o-bitcoinie.md
+  - Krzysiek Deptuła & Jan Brzechwa - O Królu: o-krolu.md
+  - Krzysiek Deptuła & Jan Brzechwa & Aerosmith - Atrament: atrament.md
+  - EKT Gdynia - Obłoki: obloki.md
+  - Oddział Zamknięty - Obudź się: obudz-sie.md
   - Krzysiek Deptuła & Oddział Zamknięty - Gdyby nie szpak: gdyby-nie-szpak.md
   - Oni zaraz przyjdą tu: oni-zaraz-przyjda-tu.md
   - Pieśń Wielorybników: piesn-wielorybnikow.md

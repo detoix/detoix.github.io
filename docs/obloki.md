@@ -1,34 +1,44 @@
-# Obłoki
+Pozmieniały nam się czasy `C F G`  
+Zrzedły miny, zrzedły lasy `C D G`  
+Rozpłynęły się marzenia `d G`  
+W niekończących rzekach przemian `d G`  
+Porzucając miasta wtór `C G`  
+Uciekamy w stronę gór `C F G`  
 
-Pozmieniały nam się czasy  
-Zrzedły miny, zrzedły lasy  
-Rozpłynęły się marzenia  
-W niekończących rzekach przemian  
+> A po niebie w przestrzeń siną `F G`  
+> Stada owiec białych płyną `C F`  
+> Wiatr wypędza je na stoki `C F G`  
+> To obłoki, to obłoki `C F G`  
+> A daleko stąd, za nami `F G`  
+> Ludzie płyną ulicami `C F`  
+> Ludzie płyną ulicami `C F G C`
 
-Porzucając miasta wtór  
-Uciekamy w stronę gór  
-A po niebie w przestrzeń siną  
-Stada owiec białych płyną  
+Zanurzamy się w naturę,   `C F G`  
+Trochę na dół, trochę w górę   `C D G`  
+Ścieżka plącze się i wije   `d G`  
+Każdy nas po drodze mija   `d G`  
+Pot się leje, w kościach rwie   `C G`  
+Inni dalej, a my nie   `C F G`  
 
-Wiatr wypędza je na stoki  
-To obłoki, to obłoki  
-A daleko stąd, za nami  
-Ludzie płyną ulicami  
+> A po niebie w przestrzeń siną `F G`  
+> Stada owiec białych płyną `C F`  
+> Wiatr wypędza je na stoki `C F G`  
+> To obłoki, to obłoki `C F G`  
+> A daleko stąd, za nami `F G`  
+> Ludzie płyną ulicami `C F`  
+> Ludzie płyną ulicami `C F G C`
 
-Zanurzamy się w naturę,  
-Trochę na dół, trochę w górę  
-Ścieżka plącze się i wije  
-Każdy nas po drodze mija  
+Chwilę później w knajpie ciasnej   `C F G`  
+Popijamy pełne jasne   `C D G`  
+A to jasne oprócz chłodu   `d G`  
+Ma zwyczajnie - kolor miodu   `d G`  
+Szemrzą struny, pełny luz   `C G`  
+Ocieramy pianę z ust   `C F G`  
 
-Pot się leje, w kościach rwie  
-Inni dalej, a my nie  
-A po niebie w przestrzeń siną …  
-
-Chwilę później w knajpie ciasnej  
-Popijamy pełne jasne  
-A to jasne oprócz chłodu  
-Ma zwyczajnie - kolor miodu  
-
-Szemrzą struny, pełny luz  
-Ocieramy pianę z ust  
-A po niebie w przestrzeń siną …
+> A po niebie w przestrzeń siną `F G`  
+> Stada owiec białych płyną `C F`  
+> Wiatr wypędza je na stoki `C F G`  
+> To obłoki, to obłoki `C F G`  
+> A daleko stąd, za nami `F G`  
+> Ludzie płyną ulicami `C F`  
+> Ludzie płyną ulicami `C F G C`
