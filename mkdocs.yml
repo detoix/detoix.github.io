@@ -4,88 +4,89 @@ use_directory_urls: false
 
 nav:
   - Akcent - Przez twe oczy zielone: przez-twe-oczy-zielone.md
-  - Dezerter - Anarchia: anarchia.md
-  - Krzysiek Deptuła & Alice Cooper - Rzuć studia: rzuc-studia.md
-  - EKT Gdynia - Ballada na złe drogi: ballada-na-zle-drogi.md
+  - Andrzej Koczewski - Jesienne wino: jesienne-wino.md
+  - Andrzej Wiejak - Zostań księżycu: zostan-ksiezycu.md
+  - Andrzej Wierzbicki - Beskid: beskid.md
+  - Bez Jacka - Polanka: polanka.md
   - Bez Jacka - Wiewiórka: wiewiorka.md
-  - SDM - Bieszczadzkie Anioły: bieszczadzkie-anioly.md
+  - Bijelo Dugme - Ruzica si bila: ruzica-si-bila.md
+  - Billy Joel - Piano Man: piano-man.md
+  - Bob Dylan - Knockin' on Heaven's Door: knockin-on-heavens-door.md
+  - Bogusław Nowicki - Gawędziarze: gawedziarze.md
+  - Breakout - Oni zaraz przyjdą tu: oni-zaraz-przyjda-tu.md
+  - Brudne Dzieci Sida - Laski: laski.md
   - Budka Suflera - V bieg: v-bieg.md
   - Chłopcy z Placu Broni - Kocham wolność: kocham-wolnosc.md
-  - Myslovitz - Dla Ciebie: dla-ciebie-moglbym-zrobic-wszystko.md
+  - Dezerter - Anarchia: anarchia.md
   - Dolly Parton - Jolene: jolene.md
   - Dwa Plus Jeden - Iść w stronę słońca: isc-w-strone-slonca.md
   - Dwa Plus Jeden - Wstawaj szkoda dnia: wstawaj-szkoda-dnia.md
   - Dżem - Czerwony jak cegła: czerwony-jak-cegla.md
-  - Varius Manx - Zamigotał świat: zamigotal-swiat.md
   - Dżem - Wehikuł czasu: wehikul-czasu.md
-  - Krzysiek Deptuła & Roxette - Fajne cycki masz: fajne-cycki-masz.md
-  - Bogusław Nowicki - Gawędziarze: gawedziarze.md
-  - Jerzy Porębski - Gdzie ta keja: gdzie-ta-keja.md
-  - Paweł Kasperczyk - Hej, przyjaciele: hej-przyjaciele.md
-  - Szanty - Hiszpańskie dziewczyny: hiszpanskie-dziewczyny.md
+  - EKT Gdynia - Ballada na złe drogi: ballada-na-zle-drogi.md
+  - EKT Gdynia - Obłoki: obloki.md
+  - EKT Gdynia - Pieśń Wielorybników: piesn-wielorybnikow.md
+  - EKT Gdynia - Za naszym domem: za-naszym-domem.md
+  - EKT Gdynia - Zimowa nadzieja: zimowa-nadzieja.md
   - Ich Troje - A wszystko to: a-wszystko-to.md
   - Ich Troje - Powiedz: powiedz.md
   - IRA - Mocny: mocny.md
   - IRA - Nadzieja: nadzieja.md
   - IRA - Ona jest ze snu: ona-jest-ze-snu.md
   - IRA - Parę chwil: pare-chwil.md
-  - Billy Joel - Piano Man: piano-man.md
   - Jeanette - Porque te vas: porque-te-vas.md
-  - Łydka Grubasa - Rapapara: rapapara.md
-  - Andrzej Koczewski - Jesienne wino: jesienne-wino.md
+  - Jerzy Porębski - Gdzie ta keja: gdzie-ta-keja.md
   - Karol Płudowski - Moja muzyka: moja-muzyka.md
-  - Bob Dylan - Knockin' on Heaven's Door: knockin-on-heavens-door.md
   - Kobranocka - Kocham Cię jak Irlandię: kocham-cie-jak-irlandie.md
   - Kobranocka - Nikomu nie wolno: nikomu-nie-wolno.md
-  - Wały Jagiellońskie - Kombajn Bizon: kombajn-bizon.md
   - Kombi - Black and White: black-and-white.md
   - Kombi - Słodkiego miłego życia: slodkiego-milego-zycia.md
-  - Varius Manx - Pocałuj noc: pocaluj-noc.md
-  - Wolna Grupa Bukowina - Piosenka wiosenna: piosenka-wiosenna.md
-  - Bez Jacka - Polanka: polanka.md
-  - Andrzej Wierzbicki - Beskid: beskid.md
+  - Krzysiek Deptuła - Miła: mila.md
+  - Krzysiek Deptuła - Zwłoki: zwloki.md
+  - Krzysiek Deptuła & Alice Cooper - Rzuć studia: rzuc-studia.md
+  - Krzysiek Deptuła & Bijelo Dugme - O Bitcoinie: o-bitcoinie.md
+  - Krzysiek Deptuła & Cezary Makiewicz - Wszystkie wody prowadzą do Spływowa: wszystkie-wody-prowadza-do-splywowa.md
+  - Krzysiek Deptuła & George Harrison - Piosenka dla Kasi: piosenka-dla-kasi.md
+  - Krzysiek Deptuła & Jan Brzechwa - O Królu: o-krolu.md
+  - Krzysiek Deptuła & Jan Brzechwa & Aerosmith - Atrament: atrament.md
+  - Krzysiek Deptuła & Oddział Zamknięty - Gdyby nie szpak: gdyby-nie-szpak.md
+  - Krzysiek Deptuła & Roxette - Fajne cycki masz: fajne-cycki-masz.md
+  - Krzysiek Deptuła & UFO - Jaja z wybiegu wolnego: jaja-z-wybiegu-wolnego.md
+  - Krzysztof Klenczon - Tam gdzie woda i las: tam-gdzie-woda-i-las.md
   - Krzysztof Krawczyk - Bo jesteś Ty: bo-jestes-ty.md
   - KSU - Moje Bieszczady: moje-bieszczady.md
-  - Zielone Żabki - Kultura: kultura.md
+  - KSU - Za mgłą: za-mgla.md
   - Lady Pank - Na co komu dziś: na-co-komu-dzis.md
-  - Brudne Dzieci Sida - Laski: laski.md
+  - Lady Pank - Zawsze tam gdzie Ty: zawsze-tam-gdzie-ty.md
   - Lombard - Przeżyj to sam: przezyj-to-sam.md
   - Lucjusz Michał Kowalczyk - Lady Mary: lady-mary.md
+  - Łydka Grubasa - Rapapara: rapapara.md
   - Łzy - Agnieszka: agnieszka.md
   - Łzy - Narcyz: narcyz.md
   - Marek Jackowski - Oprócz błękitnego nieba: oprocz-blekitnego-nieba.md
+  - Myslovitz - Dla Ciebie: dla-ciebie-moglbym-zrobic-wszystko.md
   - Myslovitz - Długość dźwięku samotności: dlugosc-dzwieku-samotnosci.md
   - Myslovitz - Mieć czy być: miec-czy-byc.md
-  - Krzysiek Deptuła & Bijelo Dugme - O Bitcoinie: o-bitcoinie.md
-  - Krzysiek Deptuła & Jan Brzechwa - O Królu: o-krolu.md
-  - Krzysiek Deptuła & Jan Brzechwa & Aerosmith - Atrament: atrament.md
-  - EKT Gdynia - Obłoki: obloki.md
   - Oddział Zamknięty - Obudź się: obudz-sie.md
-  - Krzysiek Deptuła & Oddział Zamknięty - Gdyby nie szpak: gdyby-nie-szpak.md
-  - Breakout - Oni zaraz przyjdą tu: oni-zaraz-przyjda-tu.md
-  - EKT Gdynia - Pieśń Wielorybników: piesn-wielorybnikow.md
-  - SDM - Piosenka dla Juniora i jego gitary: piosenka-dla-juniora-i-jego-gitary.md
-  - Krzysiek Deptuła & George Harrison - Piosenka dla Kasi: piosenka-dla-kasi.md
-  - SDM - Piosenka dla Wojtka Bellona: piosenka-dla-wojtka-bellona.md
-  - Urszula - Na Sen: na-sen.md
-  - Szanty - Pożegnanie Liverpoolu: pozegnanie-liverpoolu.md
+  - Oddział Zamknięty - Ten Wasz Świat: ten-wasz-swiat.md
+  - Paweł Kasperczyk - Hej, przyjaciele: hej-przyjaciele.md
   - Paweł Orkisz - Przechyły: przechyly.md
   - Rotary - Lubiła tańczyć: lubila-tanczyc.md
-  - Bijelo Dugme - Ruzica si bila: ruzica-si-bila.md
-  - Krzysztof Klenczon - Tam gdzie woda i las: tam-gdzie-woda-i-las.md
-  - Oddział Zamknięty - Ten Wasz Świat: ten-wasz-swiat.md
+  - SDM - Bieszczadzkie Anioły: bieszczadzkie-anioly.md
+  - SDM - Piosenka dla Juniora i jego gitary: piosenka-dla-juniora-i-jego-gitary.md
+  - SDM - Piosenka dla Wojtka Bellona: piosenka-dla-wojtka-bellona.md
+  - Strachy na Lachy - Żyję w kraju: zyje-w-kraju.md
+  - Szanty - Hiszpańskie dziewczyny: hiszpanskie-dziewczyny.md
+  - Szanty - Pożegnanie Liverpoolu: pozegnanie-liverpoolu.md
   - T.Love - Ajrisz: ajrisz.md
   - T.Love - Nie nie nie: nie-nie-nie.md
-  - Krzysiek Deptuła & Cezary Makiewicz - Wszystkie wody prowadzą do Spływowa: wszystkie-wody-prowadza-do-splywowa.md
-  - EKT Gdynia - Za naszym domem: za-naszym-domem.md
-  - KSU - Za mgłą: za-mgla.md
-  - Lady Pank - Zawsze tam gdzie Ty: zawsze-tam-gdzie-ty.md
-  - EKT Gdynia - Zimowa nadzieja: zimowa-nadzieja.md
-  - Andrzej Wiejak - Zostań księżycu: zostan-ksiezycu.md
-  - Krzysiek Deptuła - Zwłoki: zwloki.md
+  - Urszula - Na Sen: na-sen.md
+  - Varius Manx - Pocałuj noc: pocaluj-noc.md
+  - Varius Manx - Zamigotał świat: zamigotal-swiat.md
+  - Wały Jagiellońskie - Kombajn Bizon: kombajn-bizon.md
+  - Wolna Grupa Bukowina - Piosenka wiosenna: piosenka-wiosenna.md
   - Zbigniew Działa - Żegnaj Ameryko: zegnaj-ameryko.md
-  - Strachy na Lachy - Żyję w kraju: zyje-w-kraju.md
-  - Krzysiek Deptuła & UFO - Jaja z wybiegu wolnego: jaja-z-wybiegu-wolnego.md
+  - Zielone Żabki - Kultura: kultura.md
 
 theme:
   name: material
