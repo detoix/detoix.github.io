@@ -1,28 +1,29 @@
-# Ružica si bila – Bijelo Dugme
+Ružica si bila jedna u mom srcu.                 `F G`  
+Ružica si bila moja,                          `F G C`   
+Al’ nije za tebe divlja kupina, ni čovjek kao ja. `E7 a G F`  
+Bog mi daje,                                    `d C G`  
+Bog mi odnosi.                                  `C G a G F`  
+Ružica si bila,                                 `F G`  
+Sada više nisi.                                `E7 a`  
 
-Ružica si bila jedna u mom srcu.  
-Ružica si bila moja,  
-alʾ nije za tebe divlja kupina,  
-ni čovjek kao ja.  
+>S vremena na vrijeme,                          `C G`  
+>k’ o da čujem stope,                           `F G`  
+>k’ od’a ideš preko mog praga.                  `a d F G`  
+>S vremena na vrijeme,                          `C G`  
+>a znam da nemam prava,                        `a F`  
+>ti nisi više moja draga.                      `a d a`  
 
-Bog mi daje,  
-Bog mi odnosi.  
-Ružica si bila,  
-sada više nisi.  
+Letjele su noćas iznad moga krova,           `F G`  
+letjele su ptice selice,                       `F G C`   
+A ja sam sanjao tvoja koljena i tvoje poljupce. `E7 a G F`  
+Bog mi daje,                                   `d C G`  
+Bog mi odnosi.                                 `C G a G F`  
+Ružica si bila,                                 `F G`  
+Sada više nisi.                               `E7 a`  
 
-S vremena na vrijeme,  
-kao da čujem stope,  
-Kʾo da ideš preko mog praga.  
-S vremena na vrijeme,  
-a znam da nemam prava,  
-ti nisi više moja draga.  
-
-Letjele su noćas, iznad moga krova,  
-letjele su ptice selice,  
-a ja sam sanjao tvoja koljena  
-i tvoje poljupce.  
-
-Bog mi daje,  
-Bog mi odnosi.  
-Ružica si bila,  
-sada više nisi.
+>S vremena na vrijeme,                          `C G`  
+>k’ o da čujem stope,                           `F G`  
+>k’ od’a ideš preko mog praga.                  `a d F G`   
+>S vremena na vrijeme,                          `C G`  
+>a znam da nemam prava,                        `a F`  
+>ti nisi više moja draga.                      `a d a`  
