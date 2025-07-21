@@ -1,5 +1,3 @@
-# Oni zaraz przyjdą tu – Breakout
-
 Jak ładnie ci w tej sukni  
 oni zaraz przyjdą tu  
 Jak ładnie ci w tej sukni  
