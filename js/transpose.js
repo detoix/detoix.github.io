@@ -43,7 +43,7 @@ buttonWrap.style.marginTop = ".8rem";
 
 const buttonStyle = `
 font-size: 1.5em;
-width: 56px;
+width: 88px;
 height: 56px;
 border-radius: 4px;
 border: none;

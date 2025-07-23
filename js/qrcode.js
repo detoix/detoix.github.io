@@ -6,8 +6,8 @@ script.src = "https://cdn.jsdelivr.net/npm/qrcodejs/qrcode.min.js";
 script.onload = () => {
   new QRCode(qrDiv, {
     text: window.location.href,
-    width: 128,
-    height: 128,
+    width: 192,
+    height: 192,
   });
 };
 document.body.appendChild(script);
