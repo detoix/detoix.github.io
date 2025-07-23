@@ -22,10 +22,9 @@ Wspólny adres, nasze dzieci, sny, więc pomóż mi odnaleźć tamte dni  `F G E
 
 Dziwne, jak mi mało trzeba snu `a C G D a`  
 Słyszę znów mego życia słaby puls `C D E F`  
-Miłość jest jak deszcz `G a`  
-Który spływa po mnie aż do stóp `F G a`  
-Sama obok siebie  `F G C G a G`  
-Jestem znowu tu   `F G E`  
+Miłość jest jak deszcz `G`  
+Który spływa po mnie aż do stóp `F G C G a G`  
+Sama obok siebie jestem znowu tu   `F G E`  
 
 > Pomóż mi odnaleźć `F G`  
 > Nasze najpiękniejsze dni `C A`  
@@ -43,4 +42,4 @@ Nie uciekaj już przed marzeniem co oślepia nas  `F G C G a G`
 Przecież ja od dawna widzę tylko mrok  `F G E`  
 
 Nigdy już nie wezmę nic na sen  `a C G D a`  
-Boję się swoich ciemnych, cichych miejsc `C D E F`  
+Boję się swoich ciemnych, cichych miejsc `C G D a`  

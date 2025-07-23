@@ -12,45 +12,45 @@ Król nic innego nie je!  `d`
 >Król nie chce kaczki z rożna `g C`   
 >Ani łososia z rusztu, `A d`  
 
-Król nie tknie nawet jaja,
-Król nie zje nawet knedli,
-Które we wszystkich krajach
-Królowie zwykle jedli”.
+Król nie tknie nawet jaja, `d`     
+Król nie zje nawet knedli, `d`     
+Które we wszystkich krajach `d`     
+Królowie zwykle jedli”. `d`     
 
-A król się śmiał: „Mnie wasze
-Nie wzruszą narzekania,
-Ja jadam tylko kaszę,
-Zabierzcie inne dania!
+A król się śmiał: „Mnie wasze `d`     
+Nie wzruszą narzekania, `d`     
+Ja jadam tylko kaszę, `d`     
+Zabierzcie inne dania! `d`     
 
 >Niech zbliży się podczaszy, `g C`   
 >A choć i on narzeka, `A d`  
 >Niech z flaszy mi do kaszy `g C`   
 >Naleje szklankę mleka!” `A d`  
 
-Wzdychała Wielka Rada:
-„Jadamy niczym chłopi,
-Bo państwem naszym włada
-Kaszojad i Mlekopij.
+Wzdychała Wielka Rada: `d`     
+„Jadamy niczym chłopi, `d`     
+Bo państwem naszym włada `d`     
+Kaszojad i Mlekopij. `d`     
 
-Codziennie nam na tacy
-Podają miskę kaszy -
-Tak mogą jeść biedacy
-Z suteren lub z poddaszy,
+Codziennie nam na tacy `d`     
+Podają miskę kaszy  `d`     
+Tak mogą jeść biedacy `d`     
+Z suteren lub z poddaszy, `d`     
 
 Lecz my, Królewska Rada, `g C`   
 Narodu straż najstarsza, `A d`  
 Nam nawet nie wypada, `g C`   
 By kiszki grały marsza!” `A d`  
 
-A król wciąż rósł i mężniał,
-Był coraz zdrowszy z wiekiem,
-I mężniał, i potężniał
-Jadając kaszę z mlekiem.
+A król wciąż rósł i mężniał, `d`     
+Był coraz zdrowszy z wiekiem, `d`     
+I mężniał, i potężniał `d`     
+Jadając kaszę z mlekiem. `d`     
 
-Lecz nie był zawadiaką
-I nienawidził wojen,
-A miał zasadę taką:
-Co twoje, to nie moje.
+Lecz nie był zawadiaką `d`     
+I nienawidził wojen, `d`     
+A miał zasadę taką: `d`     
+Co twoje, to nie moje. `d`     
 
 Wróg trzymał się daleko, `g C`   
 Bo wroga król odstraszył. `A d`  
