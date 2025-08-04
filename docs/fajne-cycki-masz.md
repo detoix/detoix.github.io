@@ -27,6 +27,6 @@ Bez Twoich cycków ja nie mogę żyć				`h G e`
 >Tak bardzo, bardzo mi brak					`A h`  
 
 Jestem bezsilny wobec marzeń i rządz			`h G A h`  
-Na widok cycków zawsze staje mi drąg			`h G A h`  
+Na widok cycków zawsze staje mi on			`h G A h`  
 Nie mogę czekać, chyba słyszę ich głos			`h G A h`  
 Naprawdę do mnie mówią – co za noc			`h G e`  
