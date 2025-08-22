@@ -9,10 +9,10 @@ ni čovjek kao ja.   `E7 E a A`
 >Sada više nisi.                                `E7 a`  
 
 >S vremena na vrijeme,                          `C G`  
->k’ o da čujem stope,                           `a F G`  
->k’ od’a ideš preko mog praga.                  `C G a F G`  
+>k’ o da čujem stope,                           `F G`  
+>k’ od’a ideš preko mog praga.                  `a d F G`  
 >S vremena na vrijeme,                          `C G`  
->a znam da nemam prava,                        `a F G`  
+>a znam da nemam prava,                        `a F`  
 >ti nisi više moja draga.                      `a d a`  
 
 Letjele su noćas iznad moga krova,           `F G E7 a`  
@@ -25,8 +25,8 @@ A ja sam sanjao tvoja koljena i tvoje poljupce. `E7 a G F`
 >Sada više nisi.                               `E7 a`  
 
 >S vremena na vrijeme,                          `C G`  
->k’ o da čujem stope,                           `a F G`  
->k’ od’a ideš preko mog praga.                  `C G a F G`  
+>k’ o da čujem stope,                           `F G`  
+>k’ od’a ideš preko mog praga.                  `a d F G`  
 >S vremena na vrijeme,                          `C G`  
->a znam da nemam prava,                        `a F G`  
->ti nisi više moja draga.                      `a d a`  
+>a znam da nemam prava,                        `a F`  
+>ti nisi više moja draga.                      `a d a` 
