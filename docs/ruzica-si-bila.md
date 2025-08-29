@@ -4,7 +4,7 @@ Al’ nije za tebe divlja kupina, `E7 a G F`
 ni čovjek kao ja.   `E7 E a A`   
 
 >Bog mi daje,                                    `d C G`  
->Bog mi odnosi.                                  `C G a G F`  
+>Bog mi odnosi.                                  `C G a G`  
 >Ružica si bila,                                 `F G`  
 >Sada više nisi.                                `E7 a`  
 
@@ -17,10 +17,11 @@ ni čovjek kao ja.   `E7 E a A`
 
 Letjele su noćas iznad moga krova,           `F G E7 a`  
 letjele su ptice selice,                       `F G G7 C`   
-A ja sam sanjao tvoja koljena i tvoje poljupce. `E7 a G F`
+A ja sam sanjao tvoja koljena `E7 a G F`  
+i tvoje poljupce.   `E7 E a A`   
 
 >Bog mi daje,                                   `d C G`  
->Bog mi odnosi.                                 `C G a G F`  
+>Bog mi odnosi.                                 `C G a G`  
 >Ružica si bila,                                 `F G`  
 >Sada više nisi.                               `E7 a`  
 
